@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Surya#3801",
+    "database": "flights",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "your_password",
+    "database": "flights_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "your_password",
+    "database": "flights_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

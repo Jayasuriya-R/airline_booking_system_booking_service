@@ -1,3 +1,3 @@
 module.exports = {
-  ExampleService: require('./example-services'),
+  BookingService:require('../services/booking-services')
 };
